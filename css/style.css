@@ -177,6 +177,9 @@ nav .menu-bars {
   display: none;
   width: 40px;
   height: 40px;
+  position: fixed;
+  top: 50px;
+  right: 50px;
   background-color: var(--mainColor);
   padding: 10px;
   border-radius: 50%;
@@ -426,6 +429,7 @@ section .bottom-btn {
   padding: 150px 0;
   text-align: center;
   position: relative;
+  overflow-x: hidden;
 }
 
 .section-title {
