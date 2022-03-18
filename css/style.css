@@ -567,7 +567,7 @@ section .bottom-btn {
 }
 
 .clients .info-side .achieves .achieve span {
-  font-size: 31px;
+  font-size: 24px;
   color: var(--mainColor);
   font-weight: bold;
 }
